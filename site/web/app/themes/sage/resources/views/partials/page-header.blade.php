@@ -1,3 +1,6 @@
-<div class="page-header">
-  <h1>{!! App::title() !!}</h1>
+<div class="hero is-medium is-primary">
+  <div class="hero-body">
+    <h1 class="title is-1">{!! App::title() !!}</h1>
+    <p class="subtitle is-2">Subtitle</p>
+  </div>
 </div>
