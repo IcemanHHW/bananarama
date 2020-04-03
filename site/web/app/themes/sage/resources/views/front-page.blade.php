@@ -2,7 +2,7 @@
 
 @section('content')
 @include('partials.page-header')
-<div class="container is-fluid">
+<div class="container mt-2">
 
   <p class="has-text-centered">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mollis dictum dolor, in ultrices nisi finibus nec.
@@ -11,10 +11,10 @@
     orci sed tincidunt. In hac habitasse platea dictumst. Suspendisse ac dolor justo.
   </p>
 </div>
-<div class="container is-fluid">
+<div class="container is-fluid  mt-2">
   @include('partials.homepage.products')
 </div>
-<div class="container is-fluid has-background-light">
+<div has-background-light  mt-2">
   @include('partials.homepage.about')
 </div>
 @endsection

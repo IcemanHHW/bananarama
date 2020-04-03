@@ -1,5 +1,5 @@
-<div class="container is-fluid">
-  <div class="columns">
+<section class="section">
+  <div class="columns  mt-2">
     <div class="column">
       <h2 class="title">Product 1</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mollis dictum dolor, in ultrices nisi finibus
@@ -11,7 +11,7 @@
       <img src="https://picsum.photos/200/300" alt="placeholder">
     </div>
   </div>
-  <div class="columns has-background-light">
+  <div class="columns has-background-light  mt-2">
     <div class="column">
       <img src="https://picsum.photos/200/300" alt="placeholder">
     </div>
@@ -23,7 +23,7 @@
         aliquam orci sed tincidunt. In hac habitasse platea dictumst. Suspendisse ac dolor justo. </p>
     </div>
   </div>
-  <div class="columns">
+  <div class="columns  mt-2">
     <div class="column">
       <h2 class="title">Product 3</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mollis dictum dolor, in ultrices nisi finibus
@@ -47,7 +47,7 @@
         aliquam orci sed tincidunt. In hac habitasse platea dictumst. Suspendisse ac dolor justo. </p>
     </div>
   </div>
-  <div class="columns">
+  <div class="columns  mt-2">
     <div class="column">
       <h2 class="title">Product 5</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mollis dictum dolor, in ultrices nisi finibus
@@ -59,4 +59,6 @@
       <img src="https://picsum.photos/200/300" alt="placeholder">
     </div>
   </div>
-</div>
+</section>
+
+
