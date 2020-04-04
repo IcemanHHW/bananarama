@@ -8,7 +8,7 @@
 
   @include('partials.page-header')
 
-  <div class="container">
+  <div class="container ptb">
       <div class="columns">
         @include('partials.contact.contact-form')
         @include('partials.contact.contact-details') 

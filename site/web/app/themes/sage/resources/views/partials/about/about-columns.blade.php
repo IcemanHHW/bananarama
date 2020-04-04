@@ -1,5 +1,5 @@
-<section class="section">
-  <div class="columns mt-2">
+<section class="section is-paddingless">
+  <div class="columns ptb">
     <div class="column">
       <h2 class="title">About 1</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mollis dictum dolor, in ultrices nisi finibus
@@ -11,7 +11,7 @@
       <img src="https://picsum.photos/200/300" alt="placeholder">
     </div>
   </div>
-  <div class="columns has-background-light  mt-2">
+  <div class="columns has-background-light ptb">
     <div class="column">
       <img src="https://picsum.photos/200/300" alt="placeholder">
     </div>
