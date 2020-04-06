@@ -1,13 +1,15 @@
 <section class="section is-paddingless">
   <div class="columns ptb">
-    <div class="column is-offset-1">
+    <div class="column is-offset-1-desktop">
+      <img class="is-hidden-desktop" src="https://picsum.photos/200/300" alt="placeholder">
       <h2 class="title">Product 1</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mollis dictum dolor, in ultrices nisi finibus
         nec. Nullam pretium tristique augue, quis cursus dolor malesuada sit amet. Nullam lorem nibh, facilisis ut sem
         ut, bibendum pulvinar risus. Donec lacinia purus et mi scelerisque, in molestie metus mollis. Maecenas fringilla
         aliquam orci sed tincidunt. In hac habitasse platea dictumst. Suspendisse ac dolor justo. </p>
+        <p class="has-text-weight-bold">€ 200,-</p>
     </div>
-    <div class="column is-6">
+    <div class="column is-6 is-hidden-touch">
       <img src="https://picsum.photos/200/300" alt="placeholder">
     </div>
   </div>
@@ -21,17 +23,20 @@
         nec. Nullam pretium tristique augue, quis cursus dolor malesuada sit amet. Nullam lorem nibh, facilisis ut sem
         ut, bibendum pulvinar risus. Donec lacinia purus et mi scelerisque, in molestie metus mollis. Maecenas fringilla
         aliquam orci sed tincidunt. In hac habitasse platea dictumst. Suspendisse ac dolor justo. </p>
+        <p class="has-text-weight-bold">€ 200,-</p>
     </div>
   </div>
   <div class="columns ptb">
-    <div class="column is-offset-1">
+    <div class="column is-offset-1-desktop">
+      <img class="is-hidden-desktop" src="https://picsum.photos/200/300" alt="placeholder">
       <h2 class="title">Product 3</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mollis dictum dolor, in ultrices nisi finibus
         nec. Nullam pretium tristique augue, quis cursus dolor malesuada sit amet. Nullam lorem nibh, facilisis ut sem
         ut, bibendum pulvinar risus. Donec lacinia purus et mi scelerisque, in molestie metus mollis. Maecenas fringilla
         aliquam orci sed tincidunt. In hac habitasse platea dictumst. Suspendisse ac dolor justo. </p>
+        <p class="has-text-weight-bold">€ 200,-</p>
     </div>
-    <div class="column is-6">
+    <div class="column is-6 is-hidden-touch">
       <img src="https://picsum.photos/200/300" alt="placeholder">
     </div>
   </div>
@@ -45,17 +50,20 @@
         nec. Nullam pretium tristique augue, quis cursus dolor malesuada sit amet. Nullam lorem nibh, facilisis ut sem
         ut, bibendum pulvinar risus. Donec lacinia purus et mi scelerisque, in molestie metus mollis. Maecenas fringilla
         aliquam orci sed tincidunt. In hac habitasse platea dictumst. Suspendisse ac dolor justo. </p>
+        <p class="has-text-weight-bold">€ 200,-</p>
     </div>
   </div>
   <div class="columns ptb">
-    <div class="column is-offset-1">
+    <div class="column is-offset-1-desktop">
+      <img class="is-hidden-desktop" src="https://picsum.photos/200/300" alt="placeholder">
       <h2 class="title">Product 5</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam mollis dictum dolor, in ultrices nisi finibus
         nec. Nullam pretium tristique augue, quis cursus dolor malesuada sit amet. Nullam lorem nibh, facilisis ut sem
         ut, bibendum pulvinar risus. Donec lacinia purus et mi scelerisque, in molestie metus mollis. Maecenas fringilla
         aliquam orci sed tincidunt. In hac habitasse platea dictumst. Suspendisse ac dolor justo. </p>
+        <p class="has-text-weight-bold">€ 200,-</p>
     </div>
-    <div class="column">
+    <div class="column is-hidden-touch">
       <img src="https://picsum.photos/200/300" alt="placeholder">
     </div>
   </div>
