@@ -8,6 +8,6 @@
         nec. Nullam pretium tristique augue, quis cursus dolor malesuada sit amet. Nullam lorem nibh, facilisis ut sem
         ut, bibendum pulvinar risus. Donec lacinia purus et mi scelerisque, in molestie metus mollis. Maecenas fringilla
         aliquam orci sed tincidunt. In hac habitasse platea dictumst. Suspendisse ac dolor justo. </p>
-      <a class="button is-primary" href="#">Lees meer</a>
+      <a class="button is-primary" href="/over-bananarama/">Lees meer</a>
     </div>
   </div>
