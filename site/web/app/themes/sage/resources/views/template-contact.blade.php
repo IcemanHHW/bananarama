@@ -10,7 +10,7 @@
 
   <div class="container ptb">
     <p class="has-text-centered">
-      {{ $contact_text }}
+      <?= $contact_text ?>
     </p>
   </div>
 
