@@ -2,6 +2,14 @@ nav a {
   color: $white;
 }
 
+.navbar-menu.is-active {
+  background-color: $info !important;
+}
+
+.navbar-item img {
+  max-height: 3.5rem !important;
+}
+
 .ptb {
   padding-top: 2.5rem !important;
   padding-bottom: 2.5rem !important;

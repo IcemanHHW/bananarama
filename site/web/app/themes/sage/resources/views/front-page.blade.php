@@ -3,10 +3,14 @@
 @section('content')
 @include('partials.page-header')
 <div class="container ptb">
+<div class="columns is-centered">
+  <div class="column is-half has-text-centered">
+    <p>
+      <?= $intro_text ?>
+    </p>
+  </div>
+</div>
 
-  <p class="has-text-centered">
-    <?= $intro_text ?>
-  </p>
 </div>
 <div class="container is-fluid ptb">
   @include('partials.homepage.products')

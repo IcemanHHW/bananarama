@@ -15,6 +15,10 @@ class TemplateAbout extends Controller
         return get_field('about_image_2');
     }
 
+    public function about_image_3() {
+        return get_field('about_image_3');
+    }
+
     /*text */
     public function about_text_1() {
         return get_field('about_text_1');
