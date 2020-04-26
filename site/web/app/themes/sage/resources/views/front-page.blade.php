@@ -4,7 +4,7 @@
 @include('partials.page-header')
 <div class="container ptb">
 <div class="columns is-centered">
-  <div class="column is-half has-text-centered">
+  <div class="column is-half is-offset-1-touch is-10-touch has-text-centered">
     <p>
       <?= $intro_text ?>
     </p>
